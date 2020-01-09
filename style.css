@@ -285,6 +285,64 @@ nav a:focus{
         padding: 0 0.325em;
     }
 }
+@media (min-width:10rem) and (max-width:24rem) {
+    .logo {
+        width: 100px;
+        float: left;
+    }
+    .unstyled-list-1 {
+        font-size: .8em;
+       
+    }
+    .button-accent {
+        color: #fff;
+        background-color: rgba(0, 0, 0, 0.5);
+        width: 10rem;
+        height: 2rem;
+        font-size: .6rem;
+        padding-top: 8px;
+    }
+    .text {
+        margin-left: -5rem;
+        margin-top: 0.25em;
+    }
+    .title-1 {
+        font-size: 1.5em;
+    }
+    .port-desc {
+        display: none;
+    }
+    .title-cta {
+        font-size: 1rem;
+    }
+    .col-3 {
+        width: 50%;
+        float: left;
+        font-size: .6em;
+        
+    }
+    .col-3 .p1 {
+        margin-top: -30px;
+
+    }
+    .col-1 {
+        width: 50%;
+        float: left;
+        font-size: .5em;
+        margin-top: -30px;
+    }
+    footer {
+        max-height: 150px;
+        
+    }
+    .header-title {
+        font-size: 18px;
+    }
+    #header-page-2 {
+        height: 50px;
+    }
+    
+}
 
 @media (min-width:60rem) {
     h2 {
