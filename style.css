@@ -285,7 +285,7 @@ nav a:focus{
         padding: 0 0.325em;
     }
 }
-@media (min-width:10rem) and (max-width:24rem) {
+@media (min-width:10rem) and (max-width:25rem) {
     .logo {
         width: 100px;
         float: left;
